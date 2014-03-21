@@ -1,0 +1,4 @@
+SelfieBank
+==========
+
+OpenBankHackathon on TemenosAPI
